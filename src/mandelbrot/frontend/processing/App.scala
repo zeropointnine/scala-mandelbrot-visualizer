@@ -69,7 +69,7 @@ class App extends PApplet with Callbacks
 
 		// RANDOM POINTS OF INTEREST:
 		// TODO: possibly add to UI
-		// mandelbrotPos.setPosition(-1.023757625175305, -0.35703258690436374, 2.688881434776663E-17)  // extreme zoom-in, glitch-action, limits of Float!
+		mandelbrotPos.setPosition(-1.023757625175305, -0.35703258690436374, 2.688881434776663E-17)  // extreme zoom-in, glitch-action, limits of Float!
 		// mandelbrotPos.setPosition(0.2500098592373869, 0.0, 1.0432211481373952E-9) // elephant valley, extreme zoom-in (not interesting)
 		// mandelbrotPos.setPosition(0.31150820528911133, 0.02717402708297212, 2.2162437281928722E-9) // my test coords (cobwebs)
 		// mandelbrotPos.setPosition(-1.7945182953133427, 0.0, 2.6588814358957506E-4) // left tip, nice

@@ -26,3 +26,4 @@ DEPLOYMENT
 If so inclined, the application JAR's can be built thru the IntelliJ project 
 (Build > Build Artifact > All Artifacts > Build)
 
+![Screenshot](/other/screenshot.png?raw=true "Screenshot")
