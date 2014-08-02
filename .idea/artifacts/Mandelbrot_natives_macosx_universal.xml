@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mandelbrot-natives-macosx-universal">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="Mandelbrot-natives-macosx-universal.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-rt-natives-macosx-universal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-all-natives-macosx-universal.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
