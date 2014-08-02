@@ -18,7 +18,7 @@ This is an IntelliJ IDEA project (using v13.1). If not using IntelliJ:
 
 	- Link the jars in the libs/ 
 	- Copy the 'data' folder (in the 'src' directory) to the output directory
-	- The main class is mandelbrot.frontend.processing.App
+	- The main class is mandelbrot.frontend.processing.App 
 
 DEPLOYMENT
 ----------
